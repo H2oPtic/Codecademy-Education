@@ -1,0 +1,15 @@
+#Gal Conradi 
+#Im buying a Catamaran
+print("       BB  BB")
+print("       BB  BB")
+print("  BBBBBBBBBBBBBB)")
+print("     BBB       BB)")
+print("     BBB        BB)")
+print("     BBBBBBBBBBBB)")
+print("     BBB        BB)")
+print("     BBB       BB)")
+print("  BBBBBBBBBBBBBB)")
+print("       BB  BB")
+print("       BB  BB")
+print("")
+print("Dont Trust, Verify!")
