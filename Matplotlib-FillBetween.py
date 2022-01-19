@@ -10,6 +10,6 @@ plt.plot(months, revenue)
 ax = plt.subplot()
 ax.set_xticks(months)
 ax.set_xticklabels(month_names)
-plt.fill_between(revenue, y_upper, y_lower, alpha=0.2)
+plt.fill_between(revenue, y_lower, y_upper, alpha=0.2)
 
 plt.show()
